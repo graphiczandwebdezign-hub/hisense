@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/resources/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Remote Control Outline/Body -->
+    <path
+        android:fillColor="#1E2230"
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="2"
+        android:pathData="M42,24h24a8,8 0 0,1 8,8v44a8,8 0 0,1 -8,8h-24a8,8 0 0,1 -8,-8v-44a8,8 0 0,1 8,-8z" />
+    <!-- Power Button -->
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M54,30a3,3 0 1,0 0.001,0z" />
+    <!-- D-Pad Circle -->
+    <path
+        android:strokeColor="#00E5FF"
+        android:strokeWidth="1.5"
+        android:pathData="M54,44m-8,0a8,8 0 1,0 16,0a8,8 0 1,0 -16,0" />
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,44m-3,0a3,3 0 1,0 6,0a3,3 0 1,0 -6,0" />
+    <!-- Remote Buttons -->
+    <path
+        android:fillColor="#A0AABF"
+        android:pathData="M42,58h24v3h-24zM42,65h24v3h-24zM42,72h24v3h-24z" />
+</vector>
